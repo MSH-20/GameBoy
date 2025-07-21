@@ -111,10 +111,10 @@ git clone https://github.com/BERLINe-SS/MicroProcessors_GameBoy.git
 
 Our project was developed by:
 
+- [MSH-20](https://github.com/MSH-20)
 - [Ibrahim Abohola](https://github.com/Ibrahim-Abohola)
 - [Ahmed Gamal Seif](https://github.com/ahmedgamalseif)
 - [Ahmed Essam](https://github.com/AhmedEssam005)
-- [MSH-20](https://github.com/MSH-20)
 - [Ibrahim-357](https://github.com/Ibrahim-357)
 - [Saiko](https://github.com/saiko-git)
 - [BERLINe-SS](https://github.com/BERLINe-SS)
